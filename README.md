@@ -1,2 +1,2 @@
-# Document-GPT
-User can upload the Document He/She can Query anything from the document user can generate summary of the document
+#document GPT
+"users can upload a document, query it for information, receive answers, generate summaries, and perform various other tasks related to the document."
